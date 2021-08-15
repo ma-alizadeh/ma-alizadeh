@@ -161,6 +161,11 @@ content:
       - Gaming
       - Cooking
       - Volunteering in Environmental NGOs     
+  - title: Certificates
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+     - Images ![alt text](images/profile.jpg "Trees")
+
 footer_show_references: false
 # references_title: References on request (Override references text)
 
