@@ -164,9 +164,13 @@ content:
   - title: Certificates
     layout: text
     content: | # this will include new lines to allow paragraphs         
-      - ![alt text](images/profile.jpg "Trees")    
+      - ![alt text](Cert/UML.jpg "UML")    
 
-      - ![alt text](images/profile.jpg "Trees")
+      - ![alt text](Cert//SCRUM.jpg "Trees")
+
+      - ![alt text](images/LeadManagement01.jpg "LeadManagement01")
+
+      - ![alt text](images/LeadManagement02.jpg "LeadManagement02")
 
 
 footer_show_references: false
