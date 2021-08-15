@@ -163,7 +163,9 @@ content:
       - Volunteering in Environmental NGOs     
   - title: Certificates
     layout: text
-    content: | # this will include new lines to allow paragraphs      
+    content: | # this will include new lines to allow paragraphs         
+      ![alt text](images/profile.jpg "Trees")
+    content: | # this will include new lines to allow paragraphs         
       ![alt text](images/profile.jpg "Trees")
 
 
