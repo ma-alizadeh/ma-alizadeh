@@ -71,8 +71,7 @@ content:
         quote: >
           SuitesCRM, Moodle, Wordpress
         description: | # this will include new lines to allow paragraphs
-           The main focus of this company is designing, localizing and implementing competent courses in leadership and coaching programs. Due to covid 19 pandemic situation, the company decided to make their courses online which  resulted in massive growth in sales. As Rai-Mana CTO I am responsible for CRM,CMS and LMS development and administration. My main focus is to find the best required platforms and components, deploy and maintain them and create custom features using freelance programmers. I'm also responsible for Evaluating and configuring our CRM platform, and providing detailed end user documentation.
-    content:
+           The main focus of this company is designing, localizing and implementing competent courses in leadership and coaching programs. Due to covid 19 pandemic situation, the company decided to make their courses online which  resulted in massive growth in sales. As Rai-Mana CTO I am responsible for CRM,CMS and LMS development and administration. My main focus is to find the best required platforms and components, deploy and maintain them and create custom features using freelance programmers. I'm also responsible for Evaluating and configuring our CRM platform, and providing detailed end user documentation.    
       - layout: left
         title: Hoorakhsh Studios
         link: https://hoorakhsh.studio
