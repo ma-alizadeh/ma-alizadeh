@@ -161,9 +161,6 @@ content:
       - Gaming
       - Cooking
       - Volunteering in Environmental NGOs
-
-   - title: Certificates 
-     layout: text
      image: images/profile.jpg
 footer_show_references: false
 # references_title: References on request (Override references text)
