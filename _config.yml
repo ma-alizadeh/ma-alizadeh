@@ -160,12 +160,7 @@ content:
       - Camping in nature
       - Gaming
       - Cooking
-      - Volunteering in Environmental NGOs
-  - title: Certificates
-    layout: List
-    content: | # this will include new lines to allow paragraphs           
-      Images ![alt text](images/profile.jpg "Trees")
-     
+      - Volunteering in Environmental NGOs     
 footer_show_references: false
 # references_title: References on request (Override references text)
 
