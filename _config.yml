@@ -50,6 +50,12 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Highly-skilled software development professional bringing more than 15 years in software design, development and integration. Works well under pressure and consistently meets deadlines and targets while delivering high quality work.
 
+- title: Professional Summary
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Highly-skilled software development professional bringing more than 15 years in business analysis, software design and development.Sound knowledge of sales and marketing requirements of a global CRM system.Works well under pressure and consistently meets deadlines and targets while delivering high quality work.
+
+
 content:
   - title: Skils
     layout: list
