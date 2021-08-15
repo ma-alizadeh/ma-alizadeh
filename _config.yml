@@ -164,7 +164,7 @@ content:
   - title: Certificates
     layout: list
     content: | # this will include new lines to allow paragraphs      
-     ![alt text](images/profile.jpg "Trees")
+     - ![alt text](images/profile.jpg "Trees")
 
 
 footer_show_references: false
