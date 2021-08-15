@@ -162,11 +162,10 @@ content:
       - Cooking
       - Volunteering in Environmental NGOs     
   - title: Certificates
-    layout: text
+    layout: list
     content: | # this will include new lines to allow paragraphs         
-      ![alt text](images/profile.jpg "Trees")
-    content: | # this will include new lines to allow paragraphs         
-      ![alt text](images/profile.jpg "Trees")
+      1 ![alt text](images/profile.jpg "Trees")    
+      2 ![alt text](images/profile.jpg "Trees")
 
 
 footer_show_references: false
