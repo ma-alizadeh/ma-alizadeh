@@ -52,11 +52,23 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:    
-        -Skills
-        -Skills
-        -Skills
+       -C# & .Net Expert	
+-PHP 	& Laravel
+-Databases: MS SQL Server & MySql
+-UML Data Modeling 
+-Process Engineering 
+-CRM (Deploy & Development)
+-LMS (Deploy & Development)
+-Basic 	knowledge of HTML5, CSS, Javascript and jQuery
+-Basic 	knowledge of Android Application DevelopmentORM: Hibernate, EF
+-Unity Game Engine
+-Agile 	and SCRUM development	
+-Team Collaboration Tools: Git, TFS, Slack, Jira
+-Team player 
+-Fast Learner
+
      
        
   - title: Experience # Title for the section
@@ -64,7 +76,7 @@ content:
     content:
       - layout: left
         title: The Boring Company
-        link: boringcompany.com
+        # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
