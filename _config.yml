@@ -84,7 +84,7 @@ content:
            The main focus of this company was to create 2D animations & games. My job as lead programmer was to collaborate with Art & Game Design teams and turn their requests into features which can be developed by team. As a unity & c# programmer my main coding focus was to build required tools and structures for other developers & game designers. I also built required API’s for one of the projects using Laravel & PHP.
       - layout: left
         title: Vijegi Team
-        link: https://hoorakhsh.studio
+        #link: https://hoorakhsh.studio
         # link_text: boringcompany.com
         sub_title: Co-Founder & Head of Development
         caption: April 2015 - October 2017
@@ -97,6 +97,23 @@ content:
            - Implemented innovative systems for data collection using Telegram Bots API and PHP.
            - Worked closely with clients to establish product specifications and system designs.
            - Assessed costs and risks associated with developing new features and products.
+      - layout: left
+        title: Operation Research Group
+        # link: https://hoorakhsh.studio
+        # link_text: boringcompany.com
+        sub_title: Developer & Project Manager
+        caption: April 2012 - April 2015
+        quote: >
+          WCF, C#, SQl Server, DevExpress
+        description: | # this will include new lines to allow paragraphs
+           The main focus of this company was to build civil project monitoring and evaluation softwares.My job as project manager was to develop new features & mobile apps in my team and train and mentor junior programmers. I worked with 5 other programmers and we applied Agile Scrum Framework.
+           - Developed shared central authentication system in c# for intranet applications.
+           - Developed data change tracking system and reports using MS Sql Server CDC.
+           - Worked closely with clients to establish product specifications and system designs.
+           - Identified and suggested new technologies and tools for enhancing product value and increasing team productivity like GitLab,Slack,Trello and Jira.
+           - Led a group of 4 engineers in the design, and development of c#-based software solutions.
+           - Designed and built mobile application for on-site data collection using Java, Android Studio and Google Map API.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
