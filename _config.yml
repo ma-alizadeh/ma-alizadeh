@@ -146,7 +146,13 @@ content:
       - layout: left
         title: Azad University Tehran West Branch
         caption: 2007 - 2009
-        sub_title: Associate of Applied Science - Software Engineering         
+        sub_title: Associate of Applied Science - Software Engineering     
+  - title: Languages
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+       - Persian: Native Speaker
+       - English: Proficient
+       - German: Conversant B1
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
