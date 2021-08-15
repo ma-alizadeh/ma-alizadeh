@@ -17,17 +17,9 @@ darkmode: true
 # Social links
 twitter_username: 02syntaxerror
 github_username:  ma-alizadeh
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
 # facebook_username: jekyll
-# flickr_username: jekyll
 #instagram_username: mahyaralizadeh
 linkedin_username: mahyaralizadeh
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
@@ -51,9 +43,9 @@ about_content: | # this will include new lines to allow paragraphs
  Highly-skilled software development professional bringing more than 15 years in business analysis, software design and development.Sound knowledge of sales and marketing requirements of a global CRM system.Works well under pressure and consistently meets deadlines and targets while delivering high quality work.
 
 content:
-  - title: Skills # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |  
+  - title: Skills # Title for the section    
+    layout: text
+    content: | # this will include new lines to allow paragraphs
        -C# & .Net Expert	
        -PHP 	& Laravel
        -Databases (MS SQL Server & mySql)
@@ -101,8 +93,7 @@ content:
       - Rock climbing
       - Gaming
       - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      # Footer
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)      
 footer_show_references: false
 # references_title: References on request (Override references text)
 
