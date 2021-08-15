@@ -56,7 +56,11 @@ content:
     content:
       - layout: left
         title: Skills
-      - layout: left
+        title: Skills
+        title: Skills
+      - layout: right
+        title: Skills
+        title: Skills
         title: Skills
        
   - title: Experience # Title for the section
