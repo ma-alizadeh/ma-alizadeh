@@ -45,11 +45,11 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
- about_title: Professional Summary
+about_title: Professional Summary
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Highly-skilled software development professional bringing more than 15 years in business analysis, software design and development.Sound knowledge of sales and marketing requirements of a global CRM system.Works well under pressure and consistently meets deadlines and targets while delivering high quality work.
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
