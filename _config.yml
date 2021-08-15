@@ -151,10 +151,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      - Camping in nature
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)      
+      - Cooking
+      - Volunteering in Environmental NGOs
 footer_show_references: false
 # references_title: References on request (Override references text)
 
