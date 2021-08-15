@@ -82,7 +82,21 @@ content:
           Unity Engine, C#, PHP
         description: | # this will include new lines to allow paragraphs
            The main focus of this company was to create 2D animations & games. My job as lead programmer was to collaborate with Art & Game Design teams and turn their requests into features which can be developed by team. As a unity & c# programmer my main coding focus was to build required tools and structures for other developers & game designers. I also built required API’s for one of the projects using Laravel & PHP.
-
+      - layout: left
+        title: Vijegi Team
+        link: https://hoorakhsh.studio
+        # link_text: boringcompany.com
+        sub_title: Co-Founder & Head of Development
+        caption: April 2015 - October 2017
+        quote: >
+          ASP.NET, MS SQL Server, Telerik Ajax, Telerik Reporting
+        description: | # this will include new lines to allow paragraphs
+           The main focus of this company was to build psychological assessment tools to help HR departments to optimize the entire spectrum of HR processes, from finding the right candidate to fill a position. The main challenge was establishing product specifications and processing client requirements. My job was to develop these online assessment tools in collaboration with 2 other software engineers.
+           - Developed web-based platform for psychological assessment using ASP.net, Entity Framework and MS SQl Server.
+           - Designed reports to present assessment results using Telerik Reporting Tool.
+           - Implemented innovative systems for data collection using Telegram Bots API and PHP.
+           - Worked closely with clients to establish product specifications and system designs.
+           - Assessed costs and risks associated with developing new features and products.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
