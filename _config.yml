@@ -45,7 +45,7 @@ linkedin_username: mahyaralizadeh
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Professional Summary
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
       Highly-skilled software development professional bringing more than 15 years in business analysis, software design and development.
