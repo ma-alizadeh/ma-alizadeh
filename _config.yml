@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
-    content:    
+    content: |  
        -C# & .Net Expert	
        -PHP 	& Laravel
        -Databases (MS SQL Server & mySql)
