@@ -164,9 +164,9 @@ content:
   - title: Certificates
     layout: text
     content: | # this will include new lines to allow paragraphs         
-      - ![alt text](Cert/UML.jpg "UML")    
+      - ![alt text](images/UML.jpg "UML")    
 
-      - ![alt text](Cert//SCRUM.jpg "Trees")
+      - ![alt text](images/SCRUM.jpg "Trees")
 
       - ![alt text](images/LeadManagement01.jpg "LeadManagement01")
 
