@@ -115,7 +115,7 @@ content:
            - Designed and built mobile application for on-site data collection using Java, Android Studio and Google Map API.
       - layout: left
         title: Safa Industrial Group
-        # link: https://hoorakhsh.studio
+        link: https://www.safagroup.com
         # link_text: boringcompany.com
         sub_title: CRM Developer
         caption: 2010 - Aug 2013
@@ -128,7 +128,18 @@ content:
          - Develop, tests and deploy scalable, highly available and modular software products using C# & SOA.
          - Apply unit tests.
          - Perform UAT (User Acceptance Test)
-
+      - layout: left
+        title: Metosad Co
+        # link: https://hoorakhsh.studio
+        # link_text: boringcompany.com
+        sub_title: Junior Developer
+        caption: 2006 - 2010
+        quote: >
+          VB.net, C#, MS Sql Server, Crystal Reports
+        description: | # this will include new lines to allow paragraphs
+        The main focus of the company was to make a civil projects documentation software based on PMBOK standards.As a C# programmer I was responsible for maintaining,debugging and developing Windows Form Applications.
+        - Maintained existing applications and implemented and delivered new applications.
+        - Developed object-oriented softwares, including Civil Project Documentation Systems based on PMBOK standards.
 
 
   - title: Education # Title for the section
