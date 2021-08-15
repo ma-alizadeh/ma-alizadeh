@@ -113,6 +113,22 @@ content:
            - Identified and suggested new technologies and tools for enhancing product value and increasing team productivity like GitLab,Slack,Trello and Jira.
            - Led a group of 4 engineers in the design, and development of c#-based software solutions.
            - Designed and built mobile application for on-site data collection using Java, Android Studio and Google Map API.
+      - layout: left
+        title: Safa Industrial Group
+        # link: https://hoorakhsh.studio
+        # link_text: boringcompany.com
+        sub_title: CRM Developer
+        caption: 2010 - Aug 2013
+        quote: >
+          C#,MS Sql Server,EF
+        description: | # this will include new lines to allow paragraphs
+         Safa Industrial Group was a large holding consisting of more than 7 steel production plants and 14 related companies with over 3500 employees. 
+         I worked as a developer/designer in the CRM team. My responsibilities was:
+         - Create use-case scenarios in collaboration with the analysis team.
+         - Develop, tests and deploy scalable, highly available and modular software products using C# & SOA.
+         - Apply unit tests.
+         - Perform UAT (User Acceptance Test)
+
 
 
   - title: Education # Title for the section
