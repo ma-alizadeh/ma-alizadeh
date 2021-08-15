@@ -52,16 +52,6 @@ about_content: | # this will include new lines to allow paragraphs
       Sound knowledge of sales and marketing requirements of a global CRM system.
       Works well under pressure and consistently meets deadlines and targets while delivering high quality work.
 
-content:
-  - title: Skils
-    layout: list
-    content: | # this will include new lines to allow paragraphs
-    -C# & .Net developer	
-    -Java 
-    -PHP 	& Laravel
-
-
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
