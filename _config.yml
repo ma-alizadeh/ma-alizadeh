@@ -165,6 +165,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs         
       - ![alt text](images/profile.jpg "Trees")    
+      
       - ![alt text](images/profile.jpg "Trees")
 
 
