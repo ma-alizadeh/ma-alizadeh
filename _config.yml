@@ -63,11 +63,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Carl Zeiss Vision International GmbH
+        link: https://www.zeiss.com/
+        # link_text: boringcompany.com
+        sub_title: Global Commercial CRM Analyst
+        caption: January 2022 - Present 
+        quote: >
+          Salesforce,Business Analysis,Process Design 
+        description: | # this will include new lines to allow paragraphs
+          ZEISS is an internationally leading technology enterprise operating in the fields of optics and optoelectronics.
+
+      - layout: left
         title: Rai-Mana Institute of Coaching & Leadership
         link: https://rai-mana.com
         # link_text: boringcompany.com
         sub_title: CRM & LMS Administrator
-        caption: Apr 2020 - Present 
+        caption: Apr 2020 - Dec 2021 
         quote: >
           SuitesCRM, Moodle, Wordpress
         description: | # this will include new lines to allow paragraphs
