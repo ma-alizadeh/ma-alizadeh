@@ -161,16 +161,13 @@ content:
       - Gaming
       - Cooking
       - Volunteering in Environmental NGOs     
-  - title: Certificates
-    layout: text
-    content: | # this will include new lines to allow paragraphs         
-      - ![alt text](images/UML.jpg "UML")    
-
-      - ![alt text](images/SCRUM.jpg "Trees")
-
-      - ![alt text](images/LeadManagement01.JPG "LeadManagement01")
-
-      - ![alt text](images/LeadManagement02.JPG "LeadManagement02")
+#  - title: Certificates
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs         
+#      - ![alt text](images/UML.jpg "UML")    
+#      - ![alt text](images/SCRUM.jpg "Trees")
+#      - ![alt text](images/LeadManagement01.JPG "LeadManagement01")
+#      - ![alt text](images/LeadManagement02.JPG "LeadManagement02")
 
 
 footer_show_references: false
