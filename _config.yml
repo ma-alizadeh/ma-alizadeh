@@ -148,9 +148,9 @@ content:
         quote: >
           VB.net, C#, Sql Server
         description: | # this will include new lines to allow paragraphs
-        - Worked as a C# programmer at a company specializing in civil project documentation software based on PMBOK standards.
-        - Maintained, debugged, and developed Windows Forms applications
-        - Implemented new features to enhance software functionality.
+         - Worked as a C# programmer at a company specializing in civil project documentation software based on PMBOK standards.
+         - Maintained, debugged, and developed Windows Forms applications
+         - Implemented new features to enhance software functionality.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
