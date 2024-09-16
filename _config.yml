@@ -146,9 +146,9 @@ content:
         sub_title: Junior Developer
         caption: 2006 - 2010
         quote: >
-          VB.net, C#, Sql Server
+          C# .Net, Sql Server
         description: | # this will include new lines to allow paragraphs
-         - Worked as a C# programmer at a company specializing in civil project documentation software based on PMBOK standards.
+         - Developed civil project documentation software based on PMBOK approach
          - Maintained, debugged, and developed Windows Forms applications
          - Implemented new features to enhance software functionality.
 
